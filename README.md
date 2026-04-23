@@ -49,7 +49,7 @@ ____
 
   Dashboard
   
-[image alter](https://github.com/Geetika-ops/retail-sales-performance-analysis/blob/main/Dashboard.png?raw=true)
+![image alt](https://github.com/Geetika-ops/retail-sales-performance-analysis/blob/main/Dashboard.png?raw=true)
 ____
   
   Results & Conclusion
