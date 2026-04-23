@@ -23,28 +23,28 @@ _____
 
   Tools & Technologies
   
-Microsoft Excel
-Pivot Tables
-Pivot Charts
-Slicers & Filters
-Data Cleaning & Formatting
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers & Filters
+- Data Cleaning & Formatting
 _____
 
   Methods
   
-Data cleaning and preprocessing
-Data aggregation using Pivot Tables
-KPI calculation (Sales, Orders, % Contribution)
-Dashboard creation using charts and slicers
+- Data cleaning and preprocessing
+- Data aggregation using Pivot Tables
+- KPI calculation (Sales, Orders, % Contribution)
+- Dashboard creation using charts and slicers
  ____
 
   Key Insights
   
-Women contribute ~64% of total sales
-Amazon is the top-performing sales channel (~36%)
-Maharashtra generates the highest sales (~2.9M)
-Majority of orders are successfully delivered (~92%)
-Adult age group contributes the most to sales
+- Women contribute ~64% of total sales
+- Amazon is the top-performing sales channel (~36%)
+- Maharashtra generates the highest sales (~2.9M)
+- Majority of orders are successfully delivered (~92%)
+- Adult age group contributes the most to sales
 ____
 
   Dashboard
