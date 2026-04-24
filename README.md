@@ -15,12 +15,6 @@ ____
 To identify key business insights such as top-performing channels, customer segments, and regional sales trends to support data-driven decision-making.
  ____
  
-  Dataset
-  
-Retail sales dataset (orders, customers, channels, states, etc.)
-Time period: Annual sales data
-_____
-
   Tools & Technologies
   
 - Microsoft Excel
